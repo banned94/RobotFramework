@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.3 (Python 3.13.3 on win32)" generated="2025-06-02T22:30:47.410929" rpa="false" schemaversion="5">
+<suite id="s1" name="Login" source="C:\users\krishna\appdata\local\programs\python\python313\lib\site-packages\RobotTest\Test\Login.robot">
+<test id="s1-t1" name="Simple Test" line="2">
+<kw name="Log" owner="BuiltIn">
+<msg time="2025-06-02T22:30:47.441185" level="INFO">Hello, Robot!</msg>
+<arg>Hello, Robot!</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2025-06-02T22:30:47.441023" elapsed="0.000222"/>
+</kw>
+<status status="PASS" start="2025-06-02T22:30:47.440174" elapsed="0.001375"/>
+</test>
+<status status="PASS" start="2025-06-02T22:30:47.412271" elapsed="0.029755"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat name="Login" id="s1" pass="1" fail="0" skip="0">Login</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
