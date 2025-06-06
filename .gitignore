@@ -1,0 +1,13 @@
+    # Created by venv; see https://docs.python.org/3/library/venv.html
+    *
+    __pycache__/
+    *.log
+    *.pyc
+    .robotcache/
+    output.xml
+    report.html
+    log.html
+    *.db
+    .robot_cache/
+    .vscode/
+    /venv/
