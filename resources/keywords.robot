@@ -21,7 +21,7 @@ Validate Login Result
         Page Should Contain Element         class:inventory_list
         Page Should Not Contain Element     class=error-button
     END
-
+ 
 Close Browser Session
     Close Browser
 

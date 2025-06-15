@@ -10,4 +10,4 @@ Login With Multiple Users From List
         ${USERNAME}=    Set Variable    ${CREDENTIALS}[${i}]
         ${PASSWORD}=    Set Variable    ${CREDENTIALS}[${i + 1}]
         Run Login Scenario    ${USERNAME}    ${PASSWORD}
-    END
+    END 
